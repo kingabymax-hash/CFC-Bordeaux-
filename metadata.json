@@ -1,0 +1,5 @@
+{
+  "name": "MRSL Insurance Document Processor",
+  "description": "Automatically extract key data from insurance PDF documents using AI.",
+  "requestFramePermissions": []
+}
